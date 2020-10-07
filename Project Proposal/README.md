@@ -32,7 +32,7 @@ There are two main user categories that are expected to use/visit the site.
 
 ### Jon - The Software Developer
 
-<img src="imgs/jonnydepp.jpg" width=200>
+<img src="imgs/JonnyDepp.jpg" width=200>
 
 
 Jon is a 34 year-old software developer for a tech start-up. He works remotely from his home and is often stuck finding solutions to difficult tasks. His job requires him to be up to date on efficient methods to develop/update his algorithms. 
